@@ -25,8 +25,8 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - YellowBrick Page: "https://github.com/DistrictDataLabs/yellowbrick"
+    - Get started with YB: "https://www.scikit-yb.org/en/latest/quickstart.html"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
