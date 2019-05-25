@@ -9,3 +9,4 @@ I like to play with data and dig deep into it to draw inferences and come up wit
 
 I grew up in Jaipur, India and moved to Hamirpur, Himachal Pradesh for my engineering studies. Since then I have been exploring mountains and data!! 
 
+Feel free to get in touch through Email or LinkedIn.
