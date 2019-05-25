@@ -70,12 +70,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "nbnb76543@gmail.com"
 #   facebook: daattali
-  github: "https://github.com/naresh-bachwani"
+  github: naresh-bachwani
   twitter: daattali
-  linkedin: daattali
+  linkedin: naresh-bachwani
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
