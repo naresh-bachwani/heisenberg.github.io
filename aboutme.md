@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Naresh Bachwani, a junior undergrad from National Institute of Technology Hamirpur, Himachal Pradesh, India. I am currently pursuing my bachelor's degree in Electronics and Communication Engineering. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I like to play with data and dig deep into it to draw inferences and come up with unique solutions. I like the idea of open source projects. Currently, I am working on a project with YellowBrick under NumFOCUS umbrella, for Google Summer of Code.
 
-What else do you need?
+I grew up in Jaipur, India and moved to Hamirpur, Himachal Pradesh for my engineering studies. Since then I have been exploring mountains and data!! 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
