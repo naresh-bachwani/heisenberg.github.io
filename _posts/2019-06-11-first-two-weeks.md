@@ -3,8 +3,6 @@ layout: post
 title: Glimpse of first two weeks.
 ---
 
-*Hello folks*,
-
 Two weeks of the coding period has ended and it is already turning into summer like never before! This blog takes you through a quick tour of my accomplishments during this period.
 
 Developing a YellowBrick visualizer is divided into three parts, namely, building a Visualizer API, adding unit tests and, adding proper docstring and documentation. In these two weeks, Benjamin Bengfort gave me a glimpse of how to deal with these. 
