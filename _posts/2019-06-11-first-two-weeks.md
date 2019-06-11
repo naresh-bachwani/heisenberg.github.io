@@ -12,6 +12,7 @@ Developing a YellowBrick visualizer is divided into three parts, namely, buildin
 To begin with, I added a few features to PosTag visualizer. Pos in PosTag stands for part-of-speech(nouns, verbs, adjectives). A document can be Pos tagged using libraries like NLTK and Spacy. This visualizer accepts a tagged document and plots a bar chart to display the counts of each part-of-speech. 
 
 I [updated](https://github.com/DistrictDataLabs/yellowbrick/pull/847) the visualizer to plot PosTag frequency chart as a per-class stacked bar chart. Let us suppose that we have documents labeled as cinema, books or sports. The visualizer plot stacks based on these classes. It can help the user to compare the counts of each part-of-speech for various classes. A sample output is shown below:
+
 ![](/img/first-two-weeks/pos.png)  
 
 These stacked bar charts are frequently used and are supposed to be a part of many upcoming visualizers. Hence we decided to add a [helper](https://github.com/DistrictDataLabs/yellowbrick/pull/870) function for stacked bar charts. This helper requires a two-dimensional array where each row represents a stack and each column a bar. This reduced a considerable amount of duplicated code. I went on to update the logic of helper to handle negative values [here](https://github.com/DistrictDataLabs/yellowbrick/pull/872/commits/12d063ae5cd8caa66f0de9e84fb18f67cc6948e6).
