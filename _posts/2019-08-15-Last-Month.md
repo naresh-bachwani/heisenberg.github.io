@@ -20,9 +20,9 @@ Test manifold fit with algorithms having transform implemented
 
 ### PCA Visualizer
 
-This visualizer need a bit more care to handle, as it had more complex functionality than Manifold. It had `biplots` and a newly implemented heatmap and colorbar which shows the importance of each feature in the Principal Components. The basic blueprint related to heatmap was built [here](https://github.com/DistrictDataLabs/yellowbrick/pull/884). I was a one of the reviewer in this PR along with Mrs. Rebecca Bilbro.
+This visualizer need a bit more care to handle, as it had more complex functionality than Manifold. It had `biplots` and a newly implemented heatmap and colorbar which shows the importance of each feature in the Principal Components. The basic blueprint related to heatmap was built [here](https://github.com/DistrictDataLabs/yellowbrick/pull/884). I was a one of the reviewer in this PR along with Dr. Rebecca Bilbro.
 In my PR [here](https://github.com/DistrictDataLabs/yellowbrick/pull/937), I extended the PCA visualizer to get the features of Projection Visualizer. I created a layout using Divider Axes which added new subplots to the existing plots.
-The challenges that I faced in working with these were that related to layout that I created. Working with layout can be tricky, sometimes. I needed to call layout in the super class from the PCA which created some anomalies and I got different outputs. Keeping a common divider for all the layout worked for me and I got things working. 
+The challenges that I faced in working with these were related to layout that I created. Working with layout can be tricky. I needed to call layout in the super class from the PCA, which created some anomalies and I got different outputs. Keeping a common divider for all the layout worked for me and I got things working. 
 A plot showing the new layout:
 ![](/img/last-month/newlayout.png)
 Working with tests was quite easy in this visualizer.
