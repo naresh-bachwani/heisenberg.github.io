@@ -13,11 +13,12 @@ As both of the above techniques, PCA and Manifold, are dimensionality reduction 
 ###  Draw Method:
 
 Both the functions draw a scatter plot for reduced features in either two or three dimensions. It is supposed to extend the functionality of three-dimensional plots in Manifold too. A sample plot of the both is provided below.
-Manifold
-![](/img/second-evaluation/Manifold.png)
 
-PCA
-![](/img/second-evaluation/PCA.png)
+#### Manifold
+![Manifold](/img/second-evaluation/Manifold.png)
+
+#### PCA
+![PCA](/img/second-evaluation/PCA.png)
 
 
 ### New Layout
