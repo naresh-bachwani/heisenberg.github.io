@@ -24,7 +24,7 @@ This visualizer helps in determining the threshold for classification problems b
 
 ## Projection Visualizer:
 
-Currently, Yellowbrick deals with two dimensionality reduction techniques, namely, PCA and Manifold. Both of these have a lot of shared functionality. Projection Visualizer is meant to wrap up the common functionality in a single class and remove the duplicate codes. By using this we will also extend the functionality of both the visualizers. PCA does not support continuous target. Similarly, Manifold does not have support for the three-dimensional plots. More details about this can be found here.
+Currently, Yellowbrick deals with two dimensionality reduction techniques, namely, PCA and Manifold. Both of these have a lot of shared functionality. Projection Visualizer is meant to wrap up the common functionality in a single class and remove the duplicate codes. By using this we will also extend the functionality of both the visualizers. PCA does not support continuous target. Similarly, Manifold does not have support for the three-dimensional plots.
 
 ## Data Visualizer.
 
