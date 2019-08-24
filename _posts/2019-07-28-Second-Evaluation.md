@@ -2,7 +2,9 @@
 layout: post
 title: Second Evaluation.
 ---
-I have successfully passed my second evaluations.During this I completed working on the Projection Visualizer. It is one of the biggest PR that I have worked on. Projection Visualizer is the base class for the upcoming Principal Components Visualizer and Manifold Visualizer. It basically implements the basic underlying common functions of both the visualizer.
+I have successfully passed my second evaluations. This is what my mentor Mr. Adam Morris has to say about me. 
+![](/img/second-evaluation/Review.png)
+During this I completed working on the Projection Visualizer. It is one of the biggest PR that I have worked on. Projection Visualizer is the base class for the upcoming Principal Components Visualizer and Manifold Visualizer. It basically implements the basic underlying common functions of both the visualizer.
 All the work related to Projection Visualizer are done [here](https://github.com/DistrictDataLabs/yellowbrick/pull/908).
 
 # Projection Visualizer:
