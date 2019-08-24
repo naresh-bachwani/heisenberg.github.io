@@ -20,7 +20,7 @@ This visualizer helps in determining the threshold for classification problems b
 
 **Bug 4: This bug dealt with label cut off in visualizers.** When dealing with confusion matrix user may experience labels cut off, shown below.
 ![](/img/first-evaluation/label_cutoff.png)
- To deal with these Mr. Larry Gray came up with a great solution, but it still has some short comings. The method fixed label cut off in the saved images but it errors still shows up for the rendered images. Few possible solutions are mentioned (here)[https://github.com/DistrictDataLabs/yellowbrick/issues/613#issuecomment-501736657].
+ To deal with these Mr. Larry Gray came up with a great solution, but it still has some short comings. The method fixed label cut off in the saved images but it errors still shows up for the rendered images. Few possible solutions are mentioned [here](https://github.com/DistrictDataLabs/yellowbrick/issues/613#issuecomment-501736657).
 
 ## Projection Visualizer:
 
