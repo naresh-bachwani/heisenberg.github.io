@@ -51,4 +51,4 @@ def layout(self, divider=None):
     self._cax.set_xticks([])
 ```
 The new layout looks like this:
-![](/img/second-evaluation/Colrbar.png)
+![](/img/second-evaluation/Colorbar.png)
